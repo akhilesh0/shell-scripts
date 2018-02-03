@@ -1,2 +1,2 @@
 #!/bin/sh
-find /home/ec2-user -type d | wc -l
+find $1 -type d | wc -l
