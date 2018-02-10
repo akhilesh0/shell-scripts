@@ -9,4 +9,4 @@ do
 done
 
 printf "Sum = %s\n" $sum
-echo "new line"
+echo "new line   "
