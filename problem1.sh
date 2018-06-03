@@ -11,7 +11,7 @@ done
 printf "Sum = %s\n" $sum
 echo "new line   "
 echo "real"
-echo "Edited by Deepak on `date`"
+echo "Edited by hasan on `date`"
 echo "hello world"
 echo "letsa see if it runs"
 echo "bye"
